@@ -1,0 +1,298 @@
+{"1.8.8": {"type": "folder"}, "1v1.lol": {"type": "folder"}, "2048": {"type": "folder"}, "aquapark.io": {"type": "folder"},"hollow-knight" : {"type" :"folder"},"basket-random": {"type": "folder"},"FNAF-UCN" : {"type" : "folder"}, "basketball-legends": {"type": "folder"}, "bit-life": {"type": "folder"},"deltarune" : {"type" : "folder"}, "block-blast": {"type": "folder"}, "chrome-dino": {"type": "folder"}, "clusterrush": {"type": "folder"}, "cookieclicker": {"type": "folder"}, "cookieclicker-updated": {"type": "folder"}, "crossy-road": {"type": "folder"}, "doge-miner": {"type": "folder"}, "doodle-jump": {"type": "folder"}, "draw-the-hill": {"type": "folder"}, "drift-boss": {"type": "folder"}, "drive-mad": {"type": "folder"}, "dune": {"type": "folder"}, "eggy-car": {"type": "folder"}, "flappy-bird": {"type": "folder"}, "flash": {"type": "folder"}, "fridaynightfunkin": {"type": "folder"}, "getaway-shootout": {"type": "folder"}, "gun-spin": {"type": "folder"}, "ice-dodo": {"type": "folder"}, "just-fall": {"type": "folder"}, "launcha-libre": {"type": "folder"}, "level-devil": {"type": "folder"}, "mario-game": {"type": "folder"},"ovo": {"type": "folder"}, "paperio2": {"type": "folder"}, "rocket-league": {"type": "folder"}, "spacebar-clicker": {"type": "folder"}, "SPACEINVADERS": {"type": "folder"}, "stacktris": {"type": "folder"}, "stickman-gta-city": {"type": "folder"}, "stickman-hook": {"type": "folder"}, "Tanuki-Sunset": {"type": "folder"},
+ "escape-the-closet": {
+        "type": "flash",
+        "swf": "flash/files/escape-the-closet.swf"
+    },
+    "riddle-transfer": {
+        "type": "flash",
+        "swf": "flash/files/riddle-transfer.swf"
+    },
+    "escape-the-freezer": {
+        "type": "flash",
+        "swf": "flash/files/escape-the-freezer.swf"
+    },
+    "rogue-soul-2": {
+        "type": "flash",
+        "swf": "flash/files/rogue-soul-2.swf"
+    },
+    "achievement-unlocked-2": {
+        "type": "flash",
+        "swf": "flash/files/achievement-unlocked-2.swf"
+    },
+    "escape-the-phonebooth": {
+        "type": "flash",
+        "swf": "flash/files/escape-the-phonebooth.swf"
+    },
+    "rogue-soul": {
+        "type": "flash",
+        "swf": "flash/files/rogue-soul.swf"
+    },
+    "achievement-unlocked-3": {
+        "type": "flash",
+        "swf": "flash/files/achievement-unlocked-3.swf"
+    },
+    "escape-the-shack": {
+        "type": "flash",
+        "swf": "flash/files/escape-the-shack.swf"
+    },
+    "stealing-the-diamond": {
+        "type": "flash",
+        "swf": "flash/files/stealing-the-diamond.swf"
+    },
+    "achievement-unlocked": {
+        "type": "flash",
+        "swf": "flash/files/achievement-unlocked.swf"
+    },
+    "escaping-the-prison": {
+        "type": "flash",
+        "swf": "flash/files/escaping-the-prison.swf"
+    },
+    "stick-war": {
+        "type": "flash",
+        "swf": "flash/files/stick-war.swf"
+    },
+    "age-of-war-hacked": {
+        "type": "flash",
+        "swf": "flash/files/age-of-war-hacked.swf"
+    },
+    "factory-balls": {
+        "type": "flash",
+        "swf": "flash/files/factory-balls.swf"
+    },
+    "submachine-0": {
+        "type": "flash",
+        "swf": "flash/files/submachine-0.swf"
+    },
+    "age-of-war": {
+        "type": "flash",
+        "swf": "flash/files/age-of-war.swf"
+    },
+    "flash-chess": {
+        "type": "flash",
+        "swf": "flash/files/flash-chess.swf"
+    },
+    "run-1": {
+        "type": "flash",
+        "swf": "flash/files/run-1.swf"
+    },
+    "run-3": {
+        "type": "flash",
+        "swf": "flash/files/run-3.swf"
+    },
+    "run-2": {
+        "type": "flash",
+        "swf": "flash/files/run-2.swf"
+    },
+    "infiltratingtheairship": {
+        "type": "flash",
+        "swf": "flash/files/infiltrating-the-airship.swf"
+    },
+    "submachine-10": {
+        "type": "flash",
+        "swf": "flash/files/submachine-10.swf"
+    },
+    "bloons-td-1": {
+        "type": "flash",
+        "swf": "flash/files/bloons-td-1.swf"
+    },
+    "fleeing-the-complex": {
+        "type": "flash",
+        "swf": "flash/files/fleeing-the-complex.swf"
+    },
+    "submachine-2": {
+        "type": "flash",
+        "swf": "flash/files/submachine-2.swf"
+    },
+    "bloons-td-2": {
+        "type": "flash",
+        "swf": "flash/files/bloons-td-2.swf"
+    },
+    "gun-mayhem-2": {
+        "type": "flash",
+        "swf": "flash/files/gun-mayhem-2.swf"
+    },
+    "submachine-3": {
+        "type": "flash",
+        "swf": "flash/files/submachine-3.swf"
+    },
+    "bloons-td-3": {
+        "type": "flash",
+        "swf": "flash/files/bloons-td-3.swf"
+    },
+    "gun-mayhem": {
+        "type": "flash",
+        "swf": "flash/files/gun-mayhem.swf"
+    },
+    "submachine-32-chambers": {
+        "type": "flash",
+        "swf": "flash/files/submachine-32-chambers.swf"
+    },
+    "bloons-td-4": {
+        "type": "flash",
+        "swf": "flash/files/bloons-td-4.swf"
+    },
+    "infiltrating-the-airship": {
+        "type": "flash",
+        "swf": "flash/files/infiltrating-the-airship.swf"
+    },
+    "submachine-4": {
+        "type": "flash",
+        "swf": "flash/files/submachine-4.swf"
+    },
+    "bloons": {
+        "type": "flash",
+        "swf": "flash/files/bloons.swf"
+    },
+    "learn-to-fly-2": {
+        "type": "flash",
+        "swf": "flash/files/learn-to-fly-2.swf"
+    },
+    "submachine-5": {
+        "type": "flash",
+        "swf": "flash/files/submachine-5.swf"
+    },
+    "bloxorz": {
+        "type": "flash",
+        "swf": "flash/files/bloxorz.swf"
+    },
+    "learn-to-fly-3": {
+        "type": "flash",
+        "swf": "flash/files/learn-to-fly-3.swf"
+    },
+    "submachine-6": {
+        "type": "flash",
+        "swf": "flash/files/submachine-6.swf"
+    },
+    "breaking-the-bank": {
+        "type": "flash",
+        "swf": "flash/files/breaking-the-bank.swf"
+    },
+    "learn-to-fly-idle": {
+        "type": "flash",
+        "swf": "flash/files/learn-to-fly-idle.swf"
+    },
+    "submachine-7": {
+        "type": "flash",
+        "swf": "flash/files/submachine-7.swf"
+    },
+    "cat-ninja": {
+        "type": "flash",
+        "swf": "flash/files/cat-ninja.swf"
+    },
+    "learn-to-fly": {
+        "type": "flash",
+        "swf": "flash/files/learn-to-fly.swf"
+    },
+    "submachine-8": {
+        "type": "flash",
+        "swf": "flash/files/submachine-8.swf"
+    },
+    "creative-kill-chamber": {
+        "type": "flash",
+        "swf": "flash/files/creative-kill-chamber.swf"
+    },
+    "papas-freezeria": {
+        "type": "flash",
+        "swf": "flash/files/papas-freezeria.swf"
+    },
+    "submachine-9": {
+        "type": "flash",
+        "swf": "flash/files/submachine-9.swf"
+    },
+    "curveball": {
+        "type": "flash",
+        "swf": "flash/files/curveball.swf"
+    },
+    "papas-pizzaria": {
+        "type": "flash",
+        "swf": "flash/files/papas-pizzaria.swf"
+    },
+    "submachine-flf": {
+        "type": "flash",
+        "swf": "flash/files/submachine-flf.swf"
+    },
+    "dont-escape-2": {
+        "type": "flash",
+        "swf": "flash/files/dont-escape-2.swf"
+    },
+    "raft-wars-2": {
+        "type": "flash",
+        "swf": "flash/files/raft-wars-2.swf"
+    },
+    "submachine": {
+        "type": "flash",
+        "swf": "flash/files/submachine.swf"
+    },
+    "dont-escape-3": {
+        "type": "flash",
+        "swf": "flash/files/dont-escape-3.swf"
+    },
+    "raft-wars": {
+        "type": "flash",
+        "swf": "flash/files/raft-wars.swf"
+    },
+    "sugar-sugar": {
+        "type": "flash",
+        "swf": "flash/files/sugar-sugar.swf"
+    },
+    "riddle-school-2": {
+        "type": "flash",
+        "swf": "flash/files/riddle-school-2.swf"
+    },
+    "the-impossible-quiz": {
+        "type": "flash",
+        "swf": "flash/files/the-impossible-quiz.swf"
+    },
+    "duck-life-2": {
+        "type": "flash",
+        "swf": "flash/files/duck-life-2.swf"
+    },
+    "riddle-school-3": {
+        "type": "flash",
+        "swf": "flash/files/riddle-school-3.swf"
+    },
+    "this-is-the-only-level-2": {
+        "type": "flash",
+        "swf": "flash/files/this-is-the-only-level-2.swf"
+    },
+    "duck-life-3": {
+        "type": "flash",
+        "swf": "flash/files/duck-life-3.swf"
+    },
+    "riddle-school-4": {
+        "type": "flash",
+        "swf": "flash/files/riddle-school-4.swf"
+    },
+    "this-is-the-only-level": {
+        "type": "flash",
+        "swf": "flash/files/this-is-the-only-level.swf"
+    },
+    "duck-life": {
+        "type": "flash",
+        "swf": "flash/files/duck-life.swf"
+    },
+    "riddle-school-5": {
+        "type": "flash",
+        "swf": "flash/files/riddle-school-5.swf"
+    },
+    "ultimate-chess": {
+        "type": "flash",
+        "swf": "flash/files/ultimate-chess.swf"
+    },
+    "escape-the-bathroom": {
+        "type": "flash",
+        "swf": "flash/files/escape-the-bathroom.swf"
+    },
+    "riddle-school": {
+        "type": "flash",
+        "swf": "flash/files/riddle-school.swf"
+    },
+    "escape-the-car": {
+        "type": "flash",
+        "swf": "flash/files/escape-the-car.swf"
+    },
+    "riddle-transfer-2": {
+        "type": "flash",
+        "swf": "flash/files/riddle-transfer-2.swf"
+    }
+}
