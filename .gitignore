@@ -3,6 +3,7 @@ Build/
 Release/
 *.unityweb
 *.wasm
+*.js
 *.data
 *.zip
 *.mp4
