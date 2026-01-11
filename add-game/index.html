@@ -2,27 +2,58 @@
 <html lang="en">
 <head>
 <meta charset="UTF-8">
-<title>Embedded Form</title>
+<title>Form</title>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
 <style>
 html, body {
   margin: 0;
   padding: 0;
-  width: 100%;
+  background: #0e0e0e;
+  color: #fff;
   height: 100%;
   overflow: hidden;
+  font-family: system-ui, sans-serif;
 }
-iframe {
+
+/* Center container */
+#formWrapper {
+  position: fixed;
+  inset: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+/* Native card */
+#formCard {
+  width: min(100%, 850px);
+  height: 100%;
+  background: #121212;
+  border-radius: 18px;
+  box-shadow: 0 25px 60px rgba(0,0,0,.6);
+  overflow: hidden;
+}
+
+/* True full-bleed iframe */
+#formFrame {
   width: 100%;
   height: 100%;
   border: none;
 }
 </style>
 </head>
+
 <body>
 
-<iframe
-  src="https://docs.google.com/forms/d/e/277qud37KZFrhjG97/viewform?embedded=true">
-</iframe>
+<div id="formWrapper">
+  <div id="formCard">
+    <iframe id="formFrame"
+      src="https://docs.google.com/forms/d/e/1FAIpQLSfqrPnlOTtGanWDeRpF5rOref5hzADZ9Qsq_9Vq5rsGEpCDhA/viewform?embedded=true"
+      loading="lazy">
+    </iframe>
+  </div>
+</div>
 
 </body>
 </html>
