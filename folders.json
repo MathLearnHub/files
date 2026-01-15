@@ -14,7 +14,7 @@
     "minesweeper": {
         "type" : "flash",
         "swf" : "minesweeper.swf"
-    }.
+    },
     "rogue-soul-2": {
         "type": "flash",
         "swf": "flash/files/rogue-soul-2.swf"
@@ -301,4 +301,5 @@
     }
 
 }
+
 
