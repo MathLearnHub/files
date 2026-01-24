@@ -11,7 +11,8 @@
   "bit-life": {"type": "folder"},
   "ice-dodo": {"type": "folder"},
   "deltarune" : {"type" : "folder"}, 
-  "block-blast": {"type": "folder"}, 
+  "block-blast": {"type": "folder"},
+  "stickman-gta-city": {"type": "folder"},
   "chrome-dino": {"type": "folder"}, 
   "clusterrush": {"type": "folder"}, 
   "cookieclicker": {"type": "folder"}, 
@@ -329,6 +330,7 @@
     }
 
 }
+
 
 
 
