@@ -8,9 +8,12 @@
   "add-game" : {"type" : "folder"}, 
   "FNAF-UCN" : {"type" : "folder"}, 
   "basketball-legends": {"type": "folder"}, 
+  "paperio2": {"type" : "folder"},
   "bit-life": {"type": "folder"},
   "ice-dodo": {"type": "folder"},
   "deltarune" : {"type" : "folder"}, 
+  "spacebar-clicker" : {"type" : "folder"},
+  "stacktris" : {"type" : "folder"},
   "block-blast": {"type": "folder"},
   "stickman-gta-city": {"type": "folder"},
   "chrome-dino": {"type": "folder"}, 
@@ -330,6 +333,7 @@
     }
 
 }
+
 
 
 
