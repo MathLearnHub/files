@@ -15,7 +15,8 @@
   "clusterrush": {"type": "folder"}, 
   "cookieclicker": {"type": "folder"}, 
   "cookieclicker-updated": {"type": "folder"}, 
-  "crossy-road": {"type": "folder"}, 
+  "crossy-road": {"type": "folder"},
+  "level-devil": {"type": "folder"},
   "doge-miner": {"type": "folder"}, 
   "doodle-jump": {"type": "folder"}, 
   "draw-the-hill": {"type": "folder"}, 
@@ -327,5 +328,6 @@
     }
 
 }
+
 
 
