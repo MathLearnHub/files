@@ -5,6 +5,7 @@
   "timeshooter2" : {"type" : "folder"},
   "hollow-knight" : {"type" :"folder"},
   "basket-random": {"type": "folder"},
+  "stickman-hook" : {"type" : "folder"},
   "add-game" : {"type" : "folder"}, 
   "FNAF-UCN" : {"type" : "folder"}, 
   "basketball-legends": {"type": "folder"}, 
@@ -333,6 +334,7 @@
     }
 
 }
+
 
 
 
