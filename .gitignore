@@ -1,10 +1,1 @@
-# Unity / WebGL junk
-Build/
-Release/
-*.unityweb
-*.wasm
-*.js
-*.data
-*.zip
-*.mp4
-*.glb
+
